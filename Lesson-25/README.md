@@ -1,4 +1,10 @@
 Website tested: https://vivat.com.ua
+
+Test cases
+TC1_Catalog_Page_Check – перевірка сторінки каталогу
+TC2_Open_Product_And_Check – відкриття товару та перевірка даних
+TC3_Search_Function_Check – перевірка пошуку
+
 Тест-кейс має обов’язково містити:
 використання змінних;
 використання XPath;
